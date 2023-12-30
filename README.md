@@ -1,2 +1,2 @@
 # Webprojesi
-Webprojesi
+Webprogramlama dersinin ödevi
