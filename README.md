@@ -1,3 +1,3 @@
 # Webprojesi
 Webprogramlama dersinin ödevi
-projesinin yüklenmesi
+Projesinin yüklenmesi
